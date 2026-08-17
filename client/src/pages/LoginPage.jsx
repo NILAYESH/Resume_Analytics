@@ -33,7 +33,7 @@ export default function LoginPage() {
         <BrandLogo />
 
         <section
-          className="grid grid-cols-[minmax(0,1fr)_430px] gap-3 max-[1100px]:grid-cols-1 max-[1100px]:gap-4 max-[720px]:gap-3 max-[560px]:gap-2.5"
+          className="grid grid-cols-[minmax(0,1fr)_460px] gap-4 max-[1100px]:grid-cols-1 max-[1100px]:gap-[18px] max-[720px]:gap-[14px] max-[720px]:mt-[9rem] max-[560px]:gap-3"
           aria-label="Login area"
         >
           <HeroPanel />
